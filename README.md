@@ -79,7 +79,7 @@ this is my first repository
 
                 <div class="user_account">
                     <div class="user_profile">
-                        <img src="2.jpg" alt="photo">
+                        <img src="https://t4.ftcdn.net/jpg/00/50/92/03/360_F_50920378_hep474tI6wHWufJNmRWycIEDLBdHFEcn.jpg" alt="photo">
                         <div class="user_detail">
                             <h3>Nazneen Khan</h3>
                             <span>Web Developer</span>
